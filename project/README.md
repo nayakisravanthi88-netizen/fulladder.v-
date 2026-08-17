@@ -43,4 +43,4 @@ Cout = (A & B) | (B & Cin) | (A & Cin)
 
 ## Author
 
-Your Name
+Sravanthi 
